@@ -1,0 +1,38 @@
+.LogoImage {
+    width: 85px;
+    display: inline;
+    border: none;
+    margin-left: 10px;
+    border-radius: 50px;
+    background-color: rgb(1, 1, 124);
+}
+
+
+.Header {
+    position: fixed;
+    display: flex;
+    align-items: center;
+    background-color: rgb(44, 73, 136);
+    right: 0;
+    left: 0;
+    top: 0;
+    height: 100px;
+    border-bottom: 3px;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(9, 0, 51);
+}
+
+.Slogan {
+    display: inline-flex;
+    flex: 1;
+    font-size: x-large;
+    margin-left: 20px;
+    border-radius: 50px;
+    background-color: rgb(1, 1, 124);
+    height: 70px;
+    align-items: center;
+}
+
+.SloganText {
+    margin-left: 20px;
+}
